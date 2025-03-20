@@ -1,5 +1,5 @@
 import {Component, inject} from '@angular/core';
-import { HousingLocationComponent } from '../housing-location/housing-location.component';
+import { HousingLocationComponent } from '../housinglocation/housing-location.component';
 import { HousingLocation } from '../housinglocation';
 import { HousingService } from '../housing.service';
 
